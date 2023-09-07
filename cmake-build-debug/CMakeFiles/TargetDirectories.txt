@@ -1,0 +1,3 @@
+/Users/maxkienast/Desktop/Education/Programming Courses/C/Malloc Marge/malloc-marge/cmake-build-debug/CMakeFiles/malloc_marge.dir
+/Users/maxkienast/Desktop/Education/Programming Courses/C/Malloc Marge/malloc-marge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maxkienast/Desktop/Education/Programming Courses/C/Malloc Marge/malloc-marge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
